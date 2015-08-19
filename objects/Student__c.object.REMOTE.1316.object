@@ -65,22 +65,6 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>Student_MotherName__c</fullName>
-        <externalId>false</externalId>
-        <label>Student Mother's Name</label>
-        <fullName>Student_FatherName__c</fullName>
-        <externalId>false</externalId>
-        <label>Student Father's Name</label>
-        <length>100</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Student_FatherName__c</fullName>
-        <externalId>false</externalId>
-        <label>Student Mother's Name</label>
         <fullName>Student_FatherName__c</fullName>
         <externalId>false</externalId>
         <label>Student Father's Name</label>
@@ -91,7 +75,6 @@
         <unique>false</unique>
     </fields>
     <label>Student</label>
-    <nameField>
     <nameField>
         <displayFormat>SID-{0000}</displayFormat>
         <label>Student Id</label>

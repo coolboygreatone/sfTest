@@ -78,7 +78,7 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>Student_FatherName__c</fullName>
+        <fullName>Student_MotherName__c</fullName>
         <externalId>false</externalId>
         <label>Student Mother's Name</label>
         <fullName>Student_FatherName__c</fullName>
